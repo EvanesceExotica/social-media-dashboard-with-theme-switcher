@@ -1,0 +1,103 @@
+{
+	"header": [{
+			"userName": "@nathanf",
+			"statNumber": 1987,
+			"statType": "Followers",
+			"statShiftNumber": "12 Today",
+			"increase": true,
+			"site": "facebook"
+		},
+		{
+			"userName": "@nathanf",
+			"statNumber": "1044",
+			"statType": "Followers",
+			"statShiftNumber": "99 Today",
+			"increase": true,
+			"site": "twitter"
+		},
+		{
+			"userName": "@realnathanf",
+			"statNumber": "11k",
+			"statType": "Followers",
+			"statShiftNumber": "1099 Today",
+			"increase": true,
+			"site": "insta"
+		},
+		{
+			"userName": "Nathan F.",
+			"statNumber": "8239",
+			"statType": "Subscribers",
+			"statShiftNumber": "144 Today",
+			"increase": false,
+			"site": "youtube"
+		}
+	],
+	"overview": [
+
+		{
+			"statName": "Page Views",
+			"statNumber": 87,
+			"statShiftNumber": "3%",
+			"increase": true,
+			"site": "facebook"
+		},
+
+		{
+			"statName": "Likes",
+			"statNumber": 52,
+			"statShiftNumber": "2%",
+			"increase": false,
+			"site": "facebook"
+		},
+
+		{
+			"statName": "Likes",
+			"statNumber": 5462,
+			"statShiftNumber": "2257%",
+			"increase": true,
+			"site": "insta"
+
+		},
+
+		{
+			"statName": "Profile Views",
+			"statNumber": "52k",
+			"statShiftNumber": "1375%",
+			"increase": true,
+			"site": "insta"
+		},
+
+		{
+			"statName": "Retweets",
+			"statNumber": 117,
+			"statShiftNumber": "303%",
+			"increase": true,
+			"site": "twitter"
+		},
+
+		{
+			"statName": "Likes",
+			"statNumber": 507,
+			"statShiftNumber": "553%",
+			"increase": true,
+			"site": "twitter"
+		},
+
+		{
+			"statName": "Likes",
+			"statNumber": 107,
+			"statShiftNumber": "19%",
+			"increase": false,
+			"site": "youtube"
+		},
+
+		{
+			"statName": "Total Views",
+			"statNumber": 1407,
+			"statShiftNumber": "12%",
+			"increase": false,
+			"site": "youtube"
+		}
+
+	]
+}
